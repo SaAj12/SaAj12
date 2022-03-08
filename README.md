@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salah Ajjur. My skills include data analysis, hydrological modeling, groundwater modeling, Python, R, Origin, and GIS.
+- 👋 I’m Salah Ajjur, a PhD candidate in the Sustainable Environment. My skills include data analysis, hydrological modeling, groundwater modeling, Python, R, Origin, and GIS.
 - 👀 I’m interested in climate change and hydrology topics.
 - 🌱 I’m currently learning a sustainable method for water resources management in arid areas under climate change
 and anthropogenic impacts.
